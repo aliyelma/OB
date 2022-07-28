@@ -1,0 +1,27 @@
+/* estilos para colores */
+.colores {
+    color: red;
+}
+
+.color-hexadecimal {
+    color: #bce784;
+}
+
+.color-rgb {
+    color: rgb(53, 71, 149);
+}
+
+.color-rgba {
+    color: rgba(10, 10, 10, 0.85);
+}
+
+/* Fondos */
+.fondo {
+    background-image: url(https://cdn.wallpapersafari.com/65/28/0629TU.png);
+    background-position: center center;
+}
+
+.fondo-interno {
+    background-image: url(https://cdn.wallpapersafari.com/65/28/0629TU.png);
+    background-position: left bottom;
+}

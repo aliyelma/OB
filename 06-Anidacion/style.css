@@ -1,5 +1,5 @@
 button span::before{
-    content: 'asdasd';
+    content: 'Pasa por encima';
 }
 
 button:hover {
@@ -11,5 +11,5 @@ button span:hover{
 }
 
 button span:hover::before{
-    content: 'sisoy';
+    content: '¡Hecho!';
 }

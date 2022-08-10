@@ -1,0 +1,15 @@
+button span::before{
+    content: 'asdasd';
+}
+
+button:hover {
+    background-color: green;
+}
+
+button span:hover{
+    color: white;
+}
+
+button span:hover::before{
+    content: 'sisoy';
+}
